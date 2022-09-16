@@ -1,4 +1,4 @@
-### Ai-and-Ar
+
 ### Steps to Download Anaconda in windows 
 ##### 1. Open google and download the anaconda installer first
 ##### 2. To launch the installer, open downloads and double-click it in your Downloads folder.
